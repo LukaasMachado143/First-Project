@@ -1,0 +1,8 @@
+[LOGIN]
+login = 
+senha = 
+
+
+[CATALOGACAO]
+winrate = 90
+qtd_martingale = 1
